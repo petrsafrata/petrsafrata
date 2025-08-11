@@ -46,13 +46,10 @@ Currently working on several exciting projects…
 ![Vosk](https://img.shields.io/badge/Vosk-4B8BBE?style=for-the-badge)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=OpenAI&logoColor=white)
-![TF-IDF](https://img.shields.io/badge/TF--IDF-000000?style=for-the-badge)
-![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-000000?style=for-the-badge)
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=petrsafrata&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petrsafrata&layout=compact&theme=tokyonight)
 
 ---
