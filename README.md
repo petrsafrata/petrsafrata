@@ -1,13 +1,12 @@
 # Hi there 👋
 
 Hey, I'm **Petr** – a backend developer and software consultant.  
-Currently working on several exciting projects… including my **Bachelor's thesis** – *virtual storage with advanced search* (Docker, Spring Boot, Elasticsearch, OCR, AI).
+Currently working on several exciting projects…
 
 ---
 
 ## 💡 About Me
 - 🖥️ Mainly focused on **backend development** and system architecture
-- 🧠 Passionate about **AI**, data processing, and automation
 - 📦 Experience in both **enterprise systems** and small-scale applications
 - 📚 Constantly learning new technologies – from parsers to cloud infrastructure
 
@@ -53,11 +52,10 @@ Currently working on several exciting projects… including my **Bachelor's thes
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=petrsafrata&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petrsafrata&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petr-%C5%A1afrata-428b4521b/)
