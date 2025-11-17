@@ -57,7 +57,7 @@ Always curious about how technology can make life easier — whether through aut
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrsafrata&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrsafrata&layout=compact"/>
 </p>
 
 ---
